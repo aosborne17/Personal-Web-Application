@@ -20,7 +20,7 @@ React is a JavaScript library that specializes in helping developers build user 
 
 #### In addition, React also comes with two veryn appealing features
 
-## JavaScrit eXtesnion(JSX)
+## JavaScrit eXtenion(JSX)
 
 At the heart of any basic website are HTML documents. Web browsers read these documents and display them on your computer, tablet, or phone as web pages. During this process, browsers create something called a Document Object Model (DOM), a representational tree of how the web page is arranged. Developers can then add dynamic content to their projects by modifying the DOM with languages like JavaScript.
 
